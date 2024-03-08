@@ -1,5 +1,6 @@
 Implemented:
 User registeration and saving to the mongo db database 
+
 creation of jwt tokens and storing it in the frontend in local storage
 
 
